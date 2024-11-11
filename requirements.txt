@@ -1,0 +1,6 @@
+torch
+torchvision
+sympy
+tqdm
+google-colab
+numpy
